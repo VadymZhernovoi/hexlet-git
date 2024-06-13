@@ -1,1 +1,1 @@
-2echo 'new file2'
+echo 'new file2'
